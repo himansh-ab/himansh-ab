@@ -11,8 +11,8 @@ I am an Astrophysicist from India. I am broadly interested in Observational Astr
 
 
 ### Programming Languages
-![C](/home/maverick/IISER/Website/C.svg)
-
+![C](C.svg)
+<img src = C.svg width="20" />
 
 ### Scientific Computing Packages and Environments
 
