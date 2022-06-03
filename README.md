@@ -11,10 +11,10 @@ I am an Astrophysicist from India. I am broadly interested in Observational Astr
 
 
 ### Programming Languages
-![C](C.svg)
-<img src = C.svg width="20" />
+<img src = python.svg width="50" /> <img src = R.svg width="50" /> <img src = C.svg width="50" /> <img src = C++.svg width="50" /> 
 
-### Scientific Computing Packages and Environments
+### Scientific Computing Packages (python) 
+<img src = numpy.svg width="50" /> <img src = Matplotlib.svg width="50" />  <img src = scipy.svg width="50" /> <img src = pandas.svg width="50" /> 
 
+### Scientific Computing Environments and applications
 
-![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
